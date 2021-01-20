@@ -1,1 +1,1 @@
-web: node dist/server/index.js
+web: node versions/3.40.5/index.js
