@@ -1,1 +1,2 @@
-web: node dist/app/index.js
+web: gunicorn DBL.wsgi
+web: node dist/server/index
